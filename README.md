@@ -120,6 +120,7 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![Output Screenshot](exp1-2-output.png)
 
 ## 3. MULTIPLICATION
 
@@ -168,6 +169,7 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![Output Screenshot](exp1-3-output.png)
 
 ## 4. DIVISION
 
@@ -212,6 +214,7 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+![Output Screenshot](exp1-4-output.png)
 
 
 

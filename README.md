@@ -67,6 +67,7 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+![Output Screenshot](exp1-1-output.png)
 
 ## 2. SUBTRACTION
 
